@@ -1,4 +1,5 @@
 # 4d_map
-OpenCV 4.3.0
-CMake 3.10.2
-Ubuntu 18.04
+OpenCV 4.3.0,
+CMake 3.10.2,
+Ubuntu 18.04,
+Compiled file located in the build folder.
